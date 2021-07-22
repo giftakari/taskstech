@@ -1,6 +1,6 @@
-export default {
-    name: '',
-    description: '',
-    status: '',
-    defaultStatus: ''
+export const InitialState = {
+  name: "",
+  description: "",
+  status: "",
+  defaultStatus: "",
 };
